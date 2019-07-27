@@ -1,0 +1,4 @@
+For each .mat file: it's filename means that the incident light wavelength is the same as the filename,
+we then calculate diffrent detector position's psf (total 61 from 400nm focused position to 700nm 
+focused position,interval is 5nm).
+
