@@ -12,3 +12,4 @@ saved as "blurredimage.mat".
 5.SVD.m:this is to use SVD algorithm to restore the spectral images,the restored images will be saved as "restoredimage.mat".
 6.plot_curve.m:it is to plot spectral cuves to compare ground truth spectral and restored spectral.
 7.calculate_MSE_PSNR.m:it is to calculate MSE and PSNR.
+The readers should run the scripts in the following order:target_generat,blurredimage_generate,SVD,plot_curve,MSE.
